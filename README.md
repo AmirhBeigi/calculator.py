@@ -1,3 +1,2 @@
 # calculator.py 🐍
-Written with lovely Python 💛
-
+Written in lovely `Python`!
